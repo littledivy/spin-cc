@@ -5,7 +5,7 @@ Native CLI Spinners for Node.js. This is an experimental project to understand t
 ## Installing
 
 ```sh
-$ yarn
+$ yarn add @divy-work/spin-cc
 # or use npm! 
 # $ npm i
 ```
