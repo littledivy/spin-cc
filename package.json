@@ -1,9 +1,9 @@
 {
-  "name": "hello_world",
-  "version": "0.0.0",
-  "description": "Node.js Addons Example #1",
-  "main": "hello.js",
-  "private": true,
+  "name": "@divy-work/spin-cc",
+  "version": "0.0.1",
+  "description": "Native spinners",
+  "main": "index.js",
+  "private": false,
   "dependencies": {
     "bindings": "~1.2.1",
     "node-addon-api": "^1.0.0"
@@ -11,5 +11,8 @@
   "scripts": {
     "test": "node hello.js"
   },
-  "gypfile": true
+  "gypfile": true,
+  "repository": "https://github.com/divy-work/spin-cc",
+  "author": "Divy Srivastava <dj.srivastava23@gmail,com>",
+  "license": "MIT"
 }
