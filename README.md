@@ -2,6 +2,8 @@
 
 Native CLI Spinners for Node.js. This is an experimental project to understand the N-API and node-addon-api. :smiley:
 
+![CI](https://github.com/divy-work/spin-cc/workflows/CI/badge.svg)
+
 ## Installing
 
 ```sh
